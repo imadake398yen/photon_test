@@ -1,0 +1,13 @@
+{
+	"version":"2.0.2",
+	"server":"ws://127.0.0.1:8823",
+	"target":"/Users/falcon/Library/Logs/Unity/Editor.log",
+	"status":"connected",
+	"error":"none",
+	"autoConnect":"on",
+	"completion":"on",
+	"playFlag":"off",
+	"breakFlag":"off",
+	"compileBySave":"on",
+	"compileAnyway":"on"
+}
